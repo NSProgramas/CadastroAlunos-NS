@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYm3l9T/Cuv82CLZ69v7BgX7DFfUpbWxBhiZgYmpu8JCaYbNxR07pQAVtjFFkjtNONq6ofgshokhZcxuBbNl/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NICOLAS\\Desktop\\CadastroAlunos\\CadastroAlunos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NICOLAS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\NICOLAS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\NICOLAS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

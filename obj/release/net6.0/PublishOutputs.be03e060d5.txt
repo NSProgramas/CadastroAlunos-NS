@@ -1,0 +1,5 @@
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\publish\CadastroAlunos.exe
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\publish\CadastroAlunos.dll
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\publish\CadastroAlunos.deps.json
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\publish\CadastroAlunos.runtimeconfig.json
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\publish\CadastroAlunos.pdb

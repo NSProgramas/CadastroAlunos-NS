@@ -1,0 +1,2 @@
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\win-x64\publish\CadastroAlunos.pdb
+C:\Users\NICOLAS\Desktop\CadastroAlunos\bin\release\net6.0\win-x64\publish\CadastroAlunos.exe
